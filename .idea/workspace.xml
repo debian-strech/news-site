@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="026530ff-8cde-4282-b060-5dd9eda1315b" name="Default Changelist" comment="" />
+    <list default="true" id="026530ff-8cde-4282-b060-5dd9eda1315b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/vendor/behat/gherkin/" />
     <ignored path="$PROJECT_DIR$/vendor/bower-asset/bootstrap/" />
     <ignored path="$PROJECT_DIR$/vendor/bower-asset/inputmask/" />
@@ -132,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/views/site/category.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="66" column="68" lean-forward="true" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
+              <caret line="66" column="68" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -155,6 +158,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -301,12 +307,13 @@
       <path value="$PROJECT_DIR$/vendor/dektrium/yii2-user" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="18" />
     <option name="y" value="37" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -320,22 +327,6 @@
               <item name="basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -344,7 +335,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/GIT/gits" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -389,16 +380,15 @@
       <workItem from="1592394139771" duration="3677000" />
       <workItem from="1592404699039" duration="5785000" />
       <workItem from="1592458884900" duration="9420000" />
-      <workItem from="1592475902574" duration="8734000" />
+      <workItem from="1592475902574" duration="9960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27713000" />
+    <option name="totallyTimeSpent" value="28939000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="37" width="1346" height="698" extended-state="1" />
-    <editor active="true" />
+    <frame x="18" y="37" width="1346" height="698" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24145962" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -641,7 +631,7 @@
     <entry file="file://$PROJECT_DIR$/views/site/category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="66" column="68" lean-forward="true" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
+          <caret line="66" column="68" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
